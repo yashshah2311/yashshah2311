@@ -1,4 +1,4 @@
-![logo](https://github.com/yashshah2311/yashshah2311/blob/main/banner.gif)
+![logo](https://github.com/yashshah2311/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Yash Ashokkumar Shah</h1>
 <h3 align="center">A passionate Full Stack MERN Developer from Canada</h3>
 <img align="right" alt="coding"width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
